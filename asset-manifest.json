@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/menu-project/static/css/main.fdf98f66.css",
+    "main.js": "/menu-project/static/js/main.8c39d3c2.js",
+    "static/js/787.db49c178.chunk.js": "/menu-project/static/js/787.db49c178.chunk.js",
+    "static/media/chickenBowl.jpg": "/menu-project/static/media/chickenBowl.6c9d3ce8b03cb75608d0.jpg",
+    "static/media/alfajor.jpg": "/menu-project/static/media/alfajor.00a56b38062bf1e5889b.jpg",
+    "static/media/salmon-poke-bowl-flat-lay-photography_53876-108183.jpg": "/menu-project/static/media/salmon-poke-bowl-flat-lay-photography_53876-108183.77d761abbf071d4fe70e.jpg",
+    "static/media/veganBowl.jpg": "/menu-project/static/media/veganBowl.453d621ac144a2742b97.jpg",
+    "static/media/acaiBowl.jpeg": "/menu-project/static/media/acaiBowl.a264afc9ecd40359e514.jpeg",
+    "static/media/banana-pancake.jpg": "/menu-project/static/media/banana-pancake.2338f0b7adc40afaf271.jpg",
+    "static/media/brigadeiro.jpg": "/menu-project/static/media/brigadeiro.3ffde3b7923f6686539c.jpg",
+    "static/media/berrieCake.jpg": "/menu-project/static/media/berrieCake.a3f95ea490419da71bb6.jpg",
+    "static/media/fruits-pancake.jpg": "/menu-project/static/media/fruits-pancake.62269909163eb0a5c240.jpg",
+    "static/media/butter-pancake.jpg": "/menu-project/static/media/butter-pancake.c2d7be348ee44aa02f7b.jpg",
+    "static/media/milkShake.jpg": "/menu-project/static/media/milkShake.171591348017b21c30ae.jpg",
+    "static/media/cupcake.jpg": "/menu-project/static/media/cupcake.aa7d57cfa8d7f8d42262.jpg",
+    "static/media/coconutCandy.jpg": "/menu-project/static/media/coconutCandy.704ed1734e46ddfc428f.jpg",
+    "index.html": "/menu-project/index.html",
+    "main.fdf98f66.css.map": "/menu-project/static/css/main.fdf98f66.css.map",
+    "main.8c39d3c2.js.map": "/menu-project/static/js/main.8c39d3c2.js.map",
+    "787.db49c178.chunk.js.map": "/menu-project/static/js/787.db49c178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf98f66.css",
+    "static/js/main.8c39d3c2.js"
+  ]
+}
